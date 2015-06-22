@@ -1,0 +1,9 @@
+[submodule "share-sphero-server"]
+	path = share-sphero-server
+	url = https://github.com/JoshuaJB/share-sphero-server
+[submodule "share-sphero-client"]
+	path = share-sphero-client
+	url = https://github.com/JoshuaJB/share-sphero-client
+[submodule "share-sphero-broker"]
+	path = share-sphero-broker
+	url = https://github.com/JoshuaJB/share-sphero-broker
